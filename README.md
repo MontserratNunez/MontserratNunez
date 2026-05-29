@@ -38,7 +38,7 @@ I enjoy designing and building web applications. I focus on creating a clean and
 
 ### All
 
-<div align="center">
+<div align="">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
