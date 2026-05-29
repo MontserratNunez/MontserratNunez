@@ -40,43 +40,41 @@ I enjoy designing and building web applications. I focus on creating a clean and
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=cs" height="30" alt="csharp logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=dotnet" height="30" alt="dot-net logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="10" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="10" />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
