@@ -61,10 +61,6 @@ I enjoy designing and building web applications. I focus on creating a clean and
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" height="30" alt="microsoftsqlserver logo"  />
   <img width="7" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="30" alt="oracle logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="7" />
   <img src="https://skillicons.dev/icons?i=redis" height="30" alt="redis logo"  />
   <img width="7" />
   <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
@@ -74,8 +70,6 @@ I enjoy designing and building web applications. I focus on creating a clean and
   <img src="https://skillicons.dev/icons?i=css" height="30" alt="css logo"  />
   <img width="7" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
-  <img width="7" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
 </div>
 
 
